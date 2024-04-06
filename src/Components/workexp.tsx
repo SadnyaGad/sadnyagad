@@ -23,7 +23,7 @@ function WorkExperience() {
     const content = [
       {
         title: "Assistant Teacher at Art Academy",
-        company: "DESS",
+        company: "",
         description:
           "During my tenure as an assistant teacher at an esteemed art academy, I honed interpersonal communication skills through engagement with diverse demographics. I adeptly managed crowd dynamics and developed resilience under pressure, navigating real-world scenarios with clients, parents, and students.",
         tags: [
@@ -33,21 +33,21 @@ function WorkExperience() {
       },
       {
         title: "Art Exhibition Marketing/Management",
-        company: "Conect LLC, USA",
+        company: "",
         description:
           "Participating in my first art exhibition, I collaborated with talented artists, honing problem-solving and teamwork skills. Working under pressure, I developed marketing and management abilities crucial for successful event execution.",
         tags: ["Management", "Team Work", "Marketing"],
       },
       {
         title: "Volunteer at Old Age Home",
-        company: "SS Technologies",
+        company: "",
         description:
           "Volunteering at an old age home provided insights into the psychological challenges of aging. Witnessing resilience amidst adversity deepened my understanding of lifespan psychology, emphasizing empathy and adaptability.",
         tags: ["Empathy", "Adaptability", "Lifespan Psychology"],
       },
       {
         title: "Digital Art for Small Businesses",
-        company: "Remote",
+        company: "",
         description:
           "Engaging in digital art for small businesses enhanced design skills and demonstrated adaptability to client needs. Tailoring designs to brand identities showcased effective communication and consumer-centric design understanding.",
         tags: ["Graphic Design", "Brand Communication", "Consumer Psychology"],
