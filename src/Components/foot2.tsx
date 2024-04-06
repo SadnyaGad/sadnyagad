@@ -4,7 +4,7 @@ import { FaEnvelope, FaLinkedin, FaInstagram } from "react-icons/fa";
 const ContactMeSection = () => {
   const handleOpenURL = () => {
     window.open(
-      "https://img1.wsimg.com/blobby/go/c2d42004-8296-4a70-9aaa-ea7e3f01228f/Wallace%20Dsouza.pdf",
+      "https://img1.wsimg.com/blobby/go/c2d42004-8296-4a70-9aaa-ea7e3f01228f/Wallace%20Dsouza%20(3).pdf",
       "_blank"
     );
   };
@@ -18,6 +18,7 @@ const ContactMeSection = () => {
         padding: "50px 0",
         margin: 0,
       }}
+      
     >
       <Container>
         <h1 className="mb-4">Contact Me.</h1>
