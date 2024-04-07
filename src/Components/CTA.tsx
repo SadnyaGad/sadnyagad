@@ -1,4 +1,3 @@
-
 import { Container, Button } from "react-bootstrap";
 
 const CTASection = () => {
@@ -17,7 +16,7 @@ const CTASection = () => {
 
   const handleContactClick = () => {
     // Replace with your email address
-    const email = "wallacebusiness42@gmail.com";
+    const email = "Sadnyagad1@gmail.com";
     window.location.href = `mailto:${email}`;
   };
 
@@ -25,9 +24,12 @@ const CTASection = () => {
     <section style={gradientStyle} className="">
       <Container>
         <h2 className="display-1 mb-4" style={titleStyle}>
-        Own a One-of-a-Kind Creation. Let's Create Something Meaningful Together.
+          Own a One-of-a-Kind Creation. Let's Create Something Meaningful
+          Together.
         </h2>
-        <p className="lead mb-4">Contact me now and enjoy an additional 5% off.</p>
+        <p className="lead mb-4">
+          Contact me now and enjoy an additional 5% off.
+        </p>
         <Button
           variant="dark"
           size="lg"
